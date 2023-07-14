@@ -37,7 +37,6 @@ To participate in the lottery, users should follow these steps:
 - Wait until the lottery deadline is reached.
 - If the user is selected as the winner, the contract will transfer the jackpot to their wallet automatically.
   
-## Screenshot
 ![Screenshot 2023-07-03 221831](https://github.com/Sachin001s/LOTTERY/assets/128379424/77dd0765-fd84-46e1-b1b6-6d7759e1af6c)
 
 ## Considerations
