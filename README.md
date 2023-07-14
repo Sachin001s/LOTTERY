@@ -1,7 +1,9 @@
+<img src="Lottery.png" align="right" width="200px" height="200px"/>
 
-# Lottery Project
+# Lottery Project  &nbsp; ![Static Badge](https://img.shields.io/badge/Lottery--%23F8C517)
 
-Welcome to the Lottery project! This Solidity-based smart contract allows users to participate in a lottery and have a chance to win the jackpot. This README file provides an overview of the project, including its features, deployment instructions, and important considerations.
+> Welcome to the Lottery project! 
+This Solidity-based smart contract allows users to participate in a lottery and have a chance to win the jackpot. This README file provides an overview of the project, including its features, deployment instructions, and important considerations.
 
 
 ## Features
